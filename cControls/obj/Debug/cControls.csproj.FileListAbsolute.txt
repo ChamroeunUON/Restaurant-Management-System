@@ -1,0 +1,31 @@
+D:\PROJECT_C#\POS\cControls\bin\Debug\cControls.dll
+D:\PROJECT_C#\POS\cControls\bin\Debug\cControls.pdb
+D:\PROJECT_C#\POS\cControls\obj\Debug\cControls.dll
+D:\PROJECT_C#\POS\cControls\obj\Debug\cControls.pdb
+C:\Users\BigBoy\Desktop\GuestHouse\cControls\bin\Debug\cControls.dll
+C:\Users\BigBoy\Desktop\GuestHouse\cControls\bin\Debug\cControls.pdb
+C:\Users\BigBoy\Desktop\GuestHouse\cControls\obj\Debug\cControls.csprojResolveAssemblyReference.cache
+C:\Users\BigBoy\Desktop\GuestHouse\cControls\obj\Debug\cControls.dll
+C:\Users\BigBoy\Desktop\GuestHouse\cControls\obj\Debug\cControls.pdb
+C:\Users\NayMan\Desktop\RestaurantManagementSystem\cControls\bin\Debug\cControls.dll
+C:\Users\NayMan\Desktop\RestaurantManagementSystem\cControls\bin\Debug\cControls.pdb
+C:\Users\NayMan\Desktop\RestaurantManagementSystem\cControls\obj\Debug\cControls.dll
+C:\Users\NayMan\Desktop\RestaurantManagementSystem\cControls\obj\Debug\cControls.pdb
+C:\Users\BigBoy\Desktop\RestaurantManagementSystem\cControls\bin\Debug\cControls.dll
+C:\Users\BigBoy\Desktop\RestaurantManagementSystem\cControls\bin\Debug\cControls.pdb
+C:\Users\BigBoy\Desktop\RestaurantManagementSystem\cControls\obj\Debug\cControls.dll
+C:\Users\BigBoy\Desktop\RestaurantManagementSystem\cControls\obj\Debug\cControls.pdb
+C:\Users\NayMan\Desktop\Restraunt Manangement\cControls\bin\Debug\cControls.dll
+C:\Users\NayMan\Desktop\Restraunt Manangement\cControls\bin\Debug\cControls.pdb
+C:\Users\NayMan\Desktop\Restraunt Manangement\cControls\obj\Debug\cControls.dll
+C:\Users\NayMan\Desktop\Restraunt Manangement\cControls\obj\Debug\cControls.pdb
+C:\Users\Administrator\Desktop\ass-OOAD\cControls\bin\Debug\cControls.dll
+C:\Users\Administrator\Desktop\ass-OOAD\cControls\bin\Debug\cControls.pdb
+C:\Users\Administrator\Desktop\ass-OOAD\cControls\obj\Debug\cControls.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ass-OOAD\cControls\obj\Debug\cControls.dll
+C:\Users\Administrator\Desktop\ass-OOAD\cControls\obj\Debug\cControls.pdb
+C:\Users\chamroeun\Desktop\RestaurantManagementSystem\cControls\bin\Debug\cControls.dll
+C:\Users\chamroeun\Desktop\RestaurantManagementSystem\cControls\bin\Debug\cControls.pdb
+C:\Users\chamroeun\Desktop\RestaurantManagementSystem\cControls\obj\Debug\cControls.csprojResolveAssemblyReference.cache
+C:\Users\chamroeun\Desktop\RestaurantManagementSystem\cControls\obj\Debug\cControls.dll
+C:\Users\chamroeun\Desktop\RestaurantManagementSystem\cControls\obj\Debug\cControls.pdb
